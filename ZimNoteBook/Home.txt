@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-09-03T22:23:15-05:00
+
+====== Home ======
+Created Tuesday 03 September 2019
+
+This Notebook is saved in [[GitHub]] rahmans-dot account
